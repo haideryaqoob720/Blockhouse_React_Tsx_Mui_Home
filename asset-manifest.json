@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Blockhouse_React_Tsx_Mui_Home/static/css/main.6a191407.css",
-    "main.js": "/Blockhouse_React_Tsx_Mui_Home/static/js/main.f8a34985.js",
+    "main.js": "/Blockhouse_React_Tsx_Mui_Home/static/js/main.6a8f83ac.js",
     "static/js/787.3a39cd02.chunk.js": "/Blockhouse_React_Tsx_Mui_Home/static/js/787.3a39cd02.chunk.js",
     "static/media/asset-bg.png": "/Blockhouse_React_Tsx_Mui_Home/static/media/asset-bg.e6309429a438d246d495.png",
     "static/media/landing-bg.png": "/Blockhouse_React_Tsx_Mui_Home/static/media/landing-bg.97d40ed1f48e70470bbf.png",
@@ -10,11 +10,11 @@
     "static/media/mobile_HeroBackgroundImg.png": "/Blockhouse_React_Tsx_Mui_Home/static/media/mobile_HeroBackgroundImg.5e57abb80568dc6b0c9b.png",
     "index.html": "/Blockhouse_React_Tsx_Mui_Home/index.html",
     "main.6a191407.css.map": "/Blockhouse_React_Tsx_Mui_Home/static/css/main.6a191407.css.map",
-    "main.f8a34985.js.map": "/Blockhouse_React_Tsx_Mui_Home/static/js/main.f8a34985.js.map",
+    "main.6a8f83ac.js.map": "/Blockhouse_React_Tsx_Mui_Home/static/js/main.6a8f83ac.js.map",
     "787.3a39cd02.chunk.js.map": "/Blockhouse_React_Tsx_Mui_Home/static/js/787.3a39cd02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a191407.css",
-    "static/js/main.f8a34985.js"
+    "static/js/main.6a8f83ac.js"
   ]
 }
